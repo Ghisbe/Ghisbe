@@ -16,4 +16,4 @@ Todo eso me llevó a encontrar mi lugar en los datos.
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,anaconda,discord,gmail,mysql,opencv,py, ensorflow,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,anaconda,discord,gmail,mysql,opencv,py,tensorflow,vscode&perline=3)](https://skillicons.dev)
