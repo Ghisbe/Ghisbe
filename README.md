@@ -21,4 +21,5 @@ Mis herramientas:
 - Trello | Notion.
 - Google analytics.
 - Canva.
-:memo:
+
+📝 Contacto: giselabfigue@gmail.com
