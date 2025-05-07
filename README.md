@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola! 👋
 
-<!--
-**Ghisbe/Ghisbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst | Data entry | Digital analyst
 
-Here are some ideas to get you started:
+Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis digital. 
+También soy Licenciada en Teatro 😲—sí, Teatro—, 💥 lo que me dio una mirada creativa y muchas herramientas para trabajar en equipo. 
+Todo eso me llevó a encontrar mi lugar en los datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Tengo conocimientos en:
+  - Análisis y visualización de datos.
+  - Comunicación de datos.
+  - Análisis de redes sociales.
+  - Interpretación de métricas.
+  - Gestión de proyectos.
+  - Entrada de datos.
