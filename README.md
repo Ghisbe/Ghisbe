@@ -1,6 +1,7 @@
-## Hola! 👋
+## Hola soy Gisela! 👋
 
-Data analyst | Data entry | Digital analyst
+![nuevos](https://github.com/user-attachments/assets/e3199fe8-eb47-4acc-bc77-8d1d8951add1)
+
 
 Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis digital. 
 También soy Licenciada en Teatro 😲—sí, Teatro—, 💥 lo que me dio una mirada creativa y muchas herramientas para trabajar en equipo. 
