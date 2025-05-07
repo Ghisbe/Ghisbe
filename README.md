@@ -15,3 +15,5 @@ Todo eso me llevó a encontrar mi lugar en los datos.
   - Entrada de datos.
 
 [![My Skills](https://skillicons.dev/icons?i=git,anaconda,discord, gmail, mysql, opencv, py, tensorflow, vscode&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
