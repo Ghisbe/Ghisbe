@@ -14,8 +14,4 @@ Todo eso me llevó a encontrar mi lugar en los datos.
   - Gestión de proyectos.
   - Entrada de datos.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,discord, gmail, mysql, opencv, py, tensorflow, vscode," />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,anaconda,discord, gmail, mysql, opencv, py, tensorflow, vscode&theme=light)](https://skillicons.dev)
