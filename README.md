@@ -14,6 +14,10 @@ Todo eso me llevó a encontrar mi lugar en los datos.
   - Gestión de proyectos.
   - Entrada de datos.
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=git,anaconda,discord,gmail,mysql,opencv,py,tensorflow,vscode&perline=3)](https://skillicons.dev)
+Mis herramientas:
+- Python.
+- Looker Studio | Power BI.
+- Excel |Google sheets
+- Trello | Notion.
+- Google analytics.
+- Canva.
