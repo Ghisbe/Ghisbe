@@ -17,6 +17,7 @@ Tengo conocimientos en:
 Mis herramientas:
 - Python.
 - Looker Studio | Power BI.
+- SQL
 - Excel |Google sheets
 - Trello | Notion.
 - Google analytics.
