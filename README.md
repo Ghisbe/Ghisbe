@@ -1,6 +1,7 @@
 ## Hola soy Gisela! 👋
 
-![nuevos](https://github.com/user-attachments/assets/7e44e347-64a4-4b63-a45f-0683e483d7cc)
+<img width="1584" height="396" alt="Foto De Fondo Para Linkedin Empresa Community Manager Minimalista Divertido Morado y Blanco (2)" src="https://github.com/user-attachments/assets/d8981878-bbf9-4762-90e9-dbf48f30f685" />
+
 
 Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis digital. 
 También soy Licenciada en Teatro 😲—sí, Teatro—, 💥 lo que me dio una mirada creativa y muchas herramientas para trabajar en equipo. 
