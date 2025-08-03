@@ -1,6 +1,6 @@
 ## Hola soy Gisela! 👋
 
-<img width="1584" height="396" alt="Foto De Fondo Para Linkedin Empresa Community Manager Minimalista Divertido Morado y Blanco (2)" src="https://github.com/user-attachments/assets/d8981878-bbf9-4762-90e9-dbf48f30f685" />
+<img width="1584" height="396" alt="Beige Modern Elegant Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b52038b4-3053-44f5-b0c4-0f513bac5a1a" />
 
 
 Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis digital. 
