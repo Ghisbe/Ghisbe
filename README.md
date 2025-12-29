@@ -1,11 +1,11 @@
 ## Hola soy Gisela! 👋
 
-<img width="1584" height="396" alt="Beige Modern Elegant Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b52038b4-3053-44f5-b0c4-0f513bac5a1a" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/f6ad9067-548c-4cea-826f-1148a1de4025" />
 
 
-Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis digital. 
+Soy Técnica en Ciencia de Datos e IA, y me apasiona el análisis de datos. Tengo experiencia en administración.
 También soy Licenciada en Teatro 😲—sí, Teatro—, 💥 lo que me dio una mirada creativa y muchas herramientas para trabajar en equipo. 
-Todo eso me llevó a encontrar mi lugar en los datos.
+Todo esto me llevó a encontrar mi lugar en los datos.
 
 Tengo conocimientos en:
 - Análisis y visualización de datos.
